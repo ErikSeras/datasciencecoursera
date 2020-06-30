@@ -11,6 +11,9 @@ Author: Erik Seras
 Analysis R Script
 
 [Analysis R Script](https://github.com/ErikSeras/datasciencecoursera/blob/master/03_getting_and_cleaning_data/projects/run_analysis.R)
+
 [Tidy Data Set](https://github.com/ErikSeras/datasciencecoursera/blob/master/03_getting_and_cleaning_data/data/tidyData.txt)
+
 [Code Book](https://github.com/ErikSeras/datasciencecoursera/blob/master/03_getting_and_cleaning_data/projects/CodeBook.md)
+
 [README](https://github.com/ErikSeras/datasciencecoursera/edit/master/03_getting_and_cleaning_data/projects/README.md)
